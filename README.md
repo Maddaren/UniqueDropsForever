@@ -5,8 +5,8 @@ Unique Drops Forever is a World of Warcraft Forever addon for finding limited-so
 ## Install
 
 1. Download the addon ZIP from [Releases](../../releases) when a build is available.
-2. Close WoW and extract the ZIP into `World of Warcraft/_forever_/Interface/AddOns`. The `UniqueDropsForever` folder should contain `UniqueDropsForever.toc`.
-3. Start WoW and enable **Unique Drops Forever** in the AddOns list.
+2. Extract the ZIP into `World of Warcraft/_forever_/Interface/AddOns`.
+3. Start WoW or /reload and enable **Unique Drops Forever** in the AddOns list.
 
 ## Find loot and farming sources
 
