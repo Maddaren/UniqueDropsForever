@@ -4,7 +4,7 @@ A World of Warcraft Forever addon for browsing NPC loot, finding item sources, a
 
 ## Install
 
-1. Download the addon ZIP from the [v0.36.0 beta release](https://github.com/Maddaren/UniqueDropsForever/releases/tag/v0.36.0-beta).
+1. Download the addon ZIP from the [v0.36.0 Beta 2 release](https://github.com/Maddaren/UniqueDropsForever/releases/tag/v0.36.0-beta.2).
 2. Extract it into `World of Warcraft/_forever_/Interface/AddOns`. The extracted folder should be named `UniqueDropsForever`.
 3. Restart WoW or type `/reload`, then enable **Unique Drops Forever (BETA)** in the AddOns list.
 
